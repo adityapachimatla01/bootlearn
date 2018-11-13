@@ -1,0 +1,18 @@
+.gradle
+/build/
+/bin/
+gradle/
+!gradle/wrapper/gradle-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+ 
+/gradlew
+/gradlew.bat
